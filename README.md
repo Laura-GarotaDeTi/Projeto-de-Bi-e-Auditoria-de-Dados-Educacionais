@@ -83,8 +83,7 @@ Indicadores principais:
 - ranking acadêmico
 - indicadores operacionais
 - desempenho das escolas
-![Dashboard](./imagens/Dashboard-Projeto Bi.png)
-
+![Dashboard](./imagens/dashboard-geral.png)
 
 # Principais Insights
 
